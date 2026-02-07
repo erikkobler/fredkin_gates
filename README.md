@@ -3,3 +3,5 @@ Neural Network Experiments with Fredkin Gates. This is a project where I tried t
 Unfortunately, early tests with boolean functions and simple sorting tasks reveal the interdepent nature of weights and thus networks are not properly trainable. Further steps:
 - implement alternative intermediate optimizations to reduce interdependence.
 - experiemnt with output-to-input wirings and combinations.
+
+Get started using revdifflogic2.ipynb
